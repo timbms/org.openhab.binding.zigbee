@@ -117,6 +117,7 @@ The following devices have been tested with the binding
 | Innr Bulbs                 | *note1*                                           |
 | Osram Bulbs                |                                                   |
 | Osram Motion Sensor        | Osram Smart+ Motion Sensor                        |
+| Osram Plugs                | Osram Smart+ Indoor Plug + Outdoor Plug           |
 | SmartThings Plug           | Metered Plug                                      |
 | SmartThings Motion Sensor  | CentraLite 3325-S Motion and Temperature sensor   |
 | SmartThings Contact Sensor | Contact and Temperature sensor                    |
